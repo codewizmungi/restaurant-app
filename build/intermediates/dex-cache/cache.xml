@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_8daa29f35157d98fc60cc0685b5f313939094bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_87b372d879a43ee75b723485e9c76f5c2b9a10e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/libs/google-http-client-1.10.3-beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1eb027463d245e499ee7f40123acf5bb394553dc">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/google-http-client-1.10.3-beta_5a4760f134244df2add8b43e164cf854413d9fb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_2634529ffc71176cf1c453d3e99db9b830cba9fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72f7dde5e69cc96a561dd324a146c209079684bd">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/instant-run_d5cb9273ca7f549f27fc4256608e4e80c3e6dbec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_a727d3b54d9328c7ff7f4aebdee4c7c4314e1240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_e044ddfd2c052077de785dba0e2a7247a6d2040e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_da50e7e6cbefb945854bd0bfd9b8f790ac698103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_24b5c0304172e553d6bc4f545fb97769c4bb7251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3b90ff4375a2b86c1841a291f290905cd246370e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_87391b011e4c6a499ff00476c65a36388a7586a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_3239756178625c73e35045533f938044f5b43642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.0_c9d3225991018ce82eab97b51378c0c6e1003416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc5c8a1529d5f008836aeccd5b17a63d2265dba">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f83bc7d39352705a88718e27d289396cac1f0d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/okio-1.6.0_2457ae7b81e82110a61cbd50bd0b9e2a73028249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_41653f594c7a46566209fd067f859ca1d2e4be05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_ffc2f2036b29090286fefc53ccc1bc5d1192781e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_e095c42fd097ee2c2771bbae4971c941d9cca85a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_79b69de6164b353ca2a253ab665dbb3c677ce027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mungi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/mungi/AndroidStudioProjects/TwentyFourSeven/app/build/intermediates/pre-dexed/debug/glide-3.7.0_f6c6811415065faa3f296183e5846b1b170b5518.jar" />
+    </item>
+
+</items>
