@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_favourite"
+        android:title="Add to Favorite" />
+    <item
+        android:id="@+id/action_cart"
+        android:title="Add to Cart" />
+    <item
+        android:id="@+id/action_info"
+        android:title="View More Info" />
+</menu>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">24/7</string>
+    <string name="login_text">Login Screen</string>
+    <string name="signup_text">Signup Screen</string>
+    <string name="title_activity_favorite">Favorites</string>
+</resources>

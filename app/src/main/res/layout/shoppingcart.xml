@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_height="fill_parent"
+    android:layout_width="fill_parent" android:background="#ffffff">
+
+    <TextView android:id="@+id/TextView01" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:textColor="#000000"
+        android:textSize="24dip" android:layout_margin="5dip" android:text="Shopping Cart"
+        android:textStyle="normal|bold"></TextView>
+
+    <TextView android:layout_height="wrap_content" android:id="@+id/TextViewSubtotal"
+        android:layout_width="fill_parent" android:layout_margin="5dip"
+        android:textColor="@android:color/holo_orange_dark" android:text="Subtotal" android:textStyle="bold"
+        android:textSize="24sp"></TextView>
+    <ListView android:layout_height="wrap_content"
+        android:layout_weight="1" android:id="@+id/ListViewCatalog"
+        android:layout_width="fill_parent" android:background="#ffffff"
+        android:cacheColorHint="#ffffff" android:clickable="true"
+        android:choiceMode="multipleChoice">
+
+    </ListView>
+
+    <LinearLayout android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:orientation="horizontal"
+        android:layout_margin="5dip"
+        android:id="@+id/LinearLayoutCheckout" android:layout_gravity="right">
+        <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/ButtonRemoveFromCart"
+            android:text="Remove"
+            android:background="@color/colorAccent"
+            android:textStyle="normal|bold"
+            android:textColor="@color/cardview_light_background"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:layout_marginRight="10dp"></Button>
+        <Button android:id="@+id/Button02" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:text="Proceed"
+            android:background="@color/colorAccent"
+            android:textStyle="normal|bold"
+            android:textColor="@color/cardview_light_background"
+            android:fontFamily="sans-serif"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="12dp"></Button>
+    </LinearLayout>
+
+
+</LinearLayout>

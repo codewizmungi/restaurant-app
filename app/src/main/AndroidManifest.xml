@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ucu.twentyfourseven">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_action_cart"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".menu.MenuActivity"
+            android:label="Menu Categories" />
+        <activity
+            android:name=".login_signup.LoginActivity"
+            android:label="@string/login_text" />
+        <activity
+            android:name=".login_signup.SignupActivity"
+            android:label="@string/signup_text" />
+        <activity
+            android:name=".login_signup.LoginSignup"
+            android:label="First Time User" />
+        <activity
+            android:name=".menu.MainActivity"
+            android:label="Menu Items" />
+        <activity
+            android:name=".menu.MenuInfo"
+            android:label="Item Information" />
+        <!-- activity android:name=".ProductDetailsActivity" / -->
+        <activity
+            android:name=".shopping_cart.ShoppingCartActivity"
+            android:label="Items in Cart" />
+        <activity
+            android:name=".favorites.FavoriteActivity"
+            android:label="@string/title_activity_favorite"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Payment"
+            android:label="Make Payment"></activity>
+        <activity
+            android:name=".ConfirmDetails"
+            android:label="Processing Order">
+
+        </activity>
+    </application>
+
+</manifest>
