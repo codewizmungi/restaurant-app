@@ -83,7 +83,7 @@ public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.ViewHolder
         }
     }
 
-    private void showPopupMenu(View view, int poaition) {
+    private void showPopupMenu(View view, int position) {
         PopupMenu popup = new PopupMenu(context, view);
         MenuInflater inflater = popup.getMenuInflater();
         inflater.inflate(R.menu.menu_context, popup.getMenu());
